@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  // char - 1 byte
+  // int  - 4 bytes
+  // double - 8 bytes
+  // 1 byte = 8 bits 00000000 to 11111111
+
+  
+  int q = 7;
+  int *p;
+  p = &q;
+  cout << p << '\t' << *p << endl;
+  return 0;
+}
+

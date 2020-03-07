@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+template <class T>
+struct nodeType
+{
+  T info;
+  nodeType<T>*link;
+};
+
+template <class T>
+class linkedListIterator
+{
+public:
+  linkedListIterator();
+  linkedListIterator(nodeType<T> *ptr);
+  
+
+int main()
+{
+  
+  return 0;
+}
+

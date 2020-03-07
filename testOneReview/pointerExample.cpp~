@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  int *p = NULL;
+  int x = 5;
+  p = &x;
+  cout << *p << endl;
+
+  int *y = new int(7);
+  cout << *y << endl;
+
+  delete y;
+  return 0;
+}
+

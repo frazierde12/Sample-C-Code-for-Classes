@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  int size = 10;
+  int *array = new int[size];
+
+  for (size_t i = 0; i < 10; i++)
+    {
+      array[i] = i;
+    }
+
+  for (size_t i = 0; i < 10; i++)
+    {
+      cout << array[i] << endl;
+    }
+  
+  return 0;
+}
+

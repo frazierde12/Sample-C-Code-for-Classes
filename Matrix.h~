@@ -1,0 +1,17 @@
+class Matrix
+{
+
+public:
+
+  // Constructor(s)
+  Matrix(int r, int c, int k);
+  void print();
+  
+
+  
+private:
+  // member data
+  int row;
+  int col;
+  int M[100][100];
+};

@@ -1,0 +1,17 @@
+#include <iostream>
+#include "rectangle.cpp"
+using namespace std;
+
+int main()
+{
+  rectangle r1(4, 6);
+  rectangle r2(1, 5);
+  rectange r3;
+  r3 = r1 + r2;
+  r1.print();
+  r2.print();
+  r3.print();
+
+  return 0;
+}
+

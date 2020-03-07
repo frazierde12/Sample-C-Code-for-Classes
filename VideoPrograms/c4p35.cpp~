@@ -1,0 +1,29 @@
+// Factorial
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+  // declare variables
+
+  int n{0};
+  int fact{1};
+
+  // ask user for n
+  cout << "Enter an integer: " ;
+  cin >> n;
+
+  while (n > 1)
+    {
+
+      fact = fact * n;
+      n = n - 1;
+    }
+
+  cout << fact << endl;
+  
+  return 0;
+}
+

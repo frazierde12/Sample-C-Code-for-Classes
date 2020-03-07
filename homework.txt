@@ -1,0 +1,20 @@
+Chapter 1
+romanType.h, romanType.cpp, roman.cpp		Works fine
+
+Chapter 2
+pointType.h, pointType.cpp, pointTest.cpp	Only works for values <10
+fraction.h, fraction.cpp, fractionTest.cpp	Does not check for /0 error
+
+Chapter 3
+matrix.h, matrix.cpp matrixTest.cpp		Works fine
+
+Linked List Homework
+ll.cpp						Works fine
+
+Ordered List Homework
+ol.cpp						Works fine
+
+Chapter 6
+printStars.cpp					Prints too many stars
+reverseDigits.cpp
+

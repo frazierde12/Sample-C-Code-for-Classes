@@ -1,0 +1,20 @@
+#include <iostream>
+#include "fractionType.cpp"
+
+using namespace std;
+
+int main()
+{
+  fractionType f1(1,4);
+  fractionType f2(1,4);
+  fractionType f3;
+
+  f3 = f1 + f2;
+  f3.printFrac();
+
+  f3 = f1 * f2;
+  f3.printFrac();
+
+  return 0;
+}
+

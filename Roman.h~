@@ -1,0 +1,25 @@
+#ifndef ROMAN_H
+#define ROMAN_H
+
+class Roman
+{
+
+public:
+
+  // Constructor(s)
+  Roman(std::string s);
+
+  // Accessors
+  std::string getRoman() const;
+  int getDecimal() const;
+
+  // Mutators
+  void convert();
+  int convertDigit(char d);
+  
+private:
+  // member data
+      std::string rn;
+      int n;
+};
+#endif

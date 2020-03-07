@@ -1,0 +1,36 @@
+#include <iostream>
+using namespace std;
+
+int greatest(int x, int y)
+{
+  if (x > y)
+    {
+      return x;
+    }
+  else
+    {
+      return y;
+    }
+}
+
+double greatest(double x, double y)
+{
+  if (x > y)
+    {
+      return x;
+    }
+  else
+    {
+      return y;
+    }
+}
+
+
+int main()
+{
+
+  cout << greatest(3.2,6.8) << endl;
+  
+  return 0;
+}
+

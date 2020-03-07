@@ -1,0 +1,10 @@
+studentTest.cpp: In function ‘int main()’:
+studentTest.cpp:33:4: error: ‘s1’ was not declared in this scope
+    s1.addGrade(g);
+    ^~
+studentTest.cpp:37:4: error: ‘s1’ was not declared in this scope
+    s1.displayGrades();
+    ^~
+studentTest.cpp:41:33: error: ‘s1’ was not declared in this scope
+    cout << "Final Grade is " << s1.calculateGrade() << endl;
+                                 ^~

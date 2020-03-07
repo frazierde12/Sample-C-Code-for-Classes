@@ -1,0 +1,21 @@
+
+bob operator+(const bob& rightBob) const
+{
+  bob temp;
+  temp.x = x + rightBob.x;
+  
+
+
+}
+
+
+
+bob b1(12);
+bob b2(23);
+bob b3;
+
+b3 = b1 + b2
+  b3 = b1.add(b2)
+
+x
+y
