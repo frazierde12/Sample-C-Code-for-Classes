@@ -1,801 +1,3 @@
-rm fractionType*
-exit
-cp classTemplate.cpp fractionType.cpp
-emacs fractionType.cpp
-cp fractionType.cpp fractionType.h
-emacs fractionType.h
-cp fractionType.h fractionType.cpp
-emacs fractionType.cpp
-cp template.cpp testFractionType.cpp
-emacs testFractionType.cpp
-g++ testFractionType.cpp
-./a.out
-emacs testFractionType.cpp
-emacs fractionType.cpp
-emacs testFractionType.cpp
-g++ testFractionType.cpp
-./a.out
-emacs testFractionType.cpp
-emacs fractionType.cpp
-emacs fractionType.h
-emacs testFractionType.cpp
-g++ testFractionType.cpp
-emacs fractionType.cpp
-g++ testFractionType.cpp
-./a.out
-exit
-cp classTemplate.cpp 
-cp classTemplate.cpp safeArray.h
-emacs safeArray.h
-cp safeArray.h safeArray.cpp
-emacs safeArray.cpp
-emacs safeArray.cpp safeArray.h
-emacs safeArray.cpp 
-g++ -Wall safeArray.cpp
-emacs safeArray.cpp 
-g++ -Wall safeArray.cpp
-emacs safeArray.cpp 
-g++ -Wall safeArray.cpp
-cp template.cpp testSafeArray.cpp
-testSafeArray.cpp
-emacs testSafeArray.cpp
-g++ -Wall  testSafeArray.cpp
-emacs testSafeArray.cpp
-g++ -Wall  testSafeArray.cpp
-./a.out
-emacs safeArray.h
-emacs safeArray.cpp
-emacs testSafeArray.cpp
-g++ -Wall  testSafeArray.cpp
-./a.out
-emacs testSafeArray.cpp
-g++ -Wall  testSafeArray.cpp 
-./a.out
-emacs safeArray.cpp
-emacs testSafeArray.cpp
-exit'
-
-exit
-cp classTemplate.cpp Polynomial.h
-emacs Polynomial.h 
-emacs safeArray.h
-emacs safeArray.cpp
-emacs Polynomial.h 
-emacs safeArray.h
-emacs safeArray.cpp
-emacs testSafeArray.cpp
-g++ -Wall testSafeArray.cpp
-emacs safeArray.h
-emacs safeArray.cpp
-emacs testSafeArray.cpp
-emacs safeArray.cpp
-emacs safeArray.h
-g++ -Wall testSafeArray.cpp
-./a.out
-emacs testSafeArray.cpp
-emacs safeArray.cpp
-emacs testSafeArray.cpp
-g++ -Wall testSafeArray.cpp
-./a.out
-emacs testSafeArray.cpp
-g++ -Wall testSafeArray.cpp
-./a.out
-emacs testSafeArray.cpp
-g++ -Wall testSafeArray.cpp
-./a.out
-emacs testSafeArray.cpp
-cp template.cpp jessica.cpp
-emacs jessica.cpp
-g++ -Wall jessica.cpp
-w
-exit
-w
-last jrb8nk 
-w
-exit
-emacs Shape.h
-cp classTemplate.cpp Shape.h
-emacs Shape.h
-cp Shape.h Shape.cpp
-emacs Shape.cpp
-emacs Shape.h
-ll
-ll R*
-cp Shape.h Rectangle.h
-emacs Rectangle.h 
-cp Shape.cpp
-emacs Shape.cpp
-cp Shape.h Rectangle.h
-emacs Rectangle.h 
-cp Rectangle.h Rectangle.cpp
-emacs Rectangle.cpp
-emacs testRectangle.cpp
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.h
-emacs Rectangle.cpp
-g++ -Wall  testRectangle.cpp
-clear
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.cpp
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.cpp
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.cpp
-g++ -Wall  testRectangle.cpp
-clear
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.cpp
-w
-emacs Rectangle.cpp
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.h
-g++ -Wall  testRectangle.cpp
-clear
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.h
-emacs Rectangle.cpp
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.cpp
-emacs Shape.h
-emacs Shape.cpp
-g++ -Wall  testRectangle.cpp
-clear
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.h
-cleaer
-clear
-g++ -Wall  testRectangle.cpp
-emacs Rectangle.h
-g++ -Wall  testRectangle.cpp
-clear
-ll
-clear
-g++ -Wall  testRectangle.cpp
-emacs Shape.cpp
-exit
-sudo -i
-exit
-whoami
-emacs ex4-5.cpp
-g++ ex4-5.cpp 
-emacs ex4-5.cpp
-g++ ex4-5.cpp 
-./a.out
-w
-exit
-emacs ex44.cpp
-cp template.cpp ex44.cpp
-emacs ex44.cpp
-g++ -Wall ex44.cpp
-emacs ex44.cpp
-g++ -Wall ex44.cpp
-./a.out
-g++ -Wall ex44.cpp
-emacs ex44.cpp
-g++ -Wall ex44.cpp
-./a.out
-emacs ex44.cpp
-ll
-emacs ex4-5.cpp
-g++ ex4-5.cpp
-./a.out
-emacs ex4-5.cpp
-g++ ex4-5.cpp
-./a.out
-emacs ex4-5.cpp
-g++ ex4-5.cpp
-emacs ex4-5.cpp
-g++ ex4-5.cpp
-emacs ex4-5.cpp
-exit
-w
-emacs testInsert.cpp
-g++ testInsert.cpp 
-emacs testInsert.cpp
-g++ testInsert.cpp 
-emacs testInsert.cpp
-g++ testInsert.cpp 
-./a.out
-g++ ex4-5.cpp
-emacs ex4-5.cpp
-g++ ex4-5.cpp
-./a.out
-cp template.cpp ex4-6.cpp
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-cp template.cpp ex4-7.cpp
-emacs ex4-7.cpp 
-g++ ex4-7.cpp 
-./a.out
-emacs ex4-7.cpp 
-g++ ex4-7.cpp 
-./a.out
-emacs ex4-7.cpp 
-g++ ex4-7.cpp 
-./a.out
-emacs ex4-7.cpp 
-g++ ex4-7.cpp 
-./a.out
-exit
-emacs ex44.cpp
-g++ ex44.cpp
-./a.out
-emacs ex44.cpp
-g++ ex44.cpp
-./a.out
-emacs ex44.cpp
-emacs ex4-5.cpp
-g++ ex4-5.cpp
-./a.out
-g++ ex4-5.cpp
-emacs ex4-5.cpp
-emacs ex4-6.cpp
-g++ ex4-5.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-g++ ex4-6.cpp
-./a.out
-emacs ex4-6.cpp
-emacs ex4-7.cpp
-g++ ex4-7.cpp
-./a.out
-exit
-sudo -i
-exit
-w
-emacs baseDerived.h
-rm baseDerived.h
-emacs baseClass.h
-cp baseClass.h derivedClass.h
-emacs derivedClass.h 
-cp baseClass.h baseClass.cpp
-cp derivedClass.h derivedClass.cpp
-emacs baseClass.cpp
-g++ baseClass.cpp
-emacs baseClass.cpp
-emacs derivedClass.cpp
-emacs baseClass.cpp
-cp template.cpp testBaseDerived.cpp
-emacs testBaseDerived.cpp 
-g++ testBaseDerived.cpp 
-./a.out
-mkdir testOneReview
-cp baseClass* testOneReview/
-cp derivedClass* testOneReview/
-cp testBaseDerived.cpp testOneReview/
-cd testOneReview
-ll
-emacs testBaseDerived.cpp 
-g++ testBaseDerived.cpp 
-emacs testBaseDerived.cpp 
-g++ testBaseDerived.cpp 
-./a.out
-cp baseClass.h baseClassV.h
-emacs baseClassV.h
-cp derivedClass.h derivedClassV.h
-ll *V*
-rm *V*
-emacs baseClass.h
-g++ testBaseDerived.cpp 
-./a.out
-emacs baseClass.cpp
-g++ testBaseDerived.cpp 
-emacs baseClass.cpp
-emacs derivedClass.h
-emacs testBaseDerived.cpp
-g++ testBaseDerived.cpp 
-./a.out
-emacs testBaseDerived.cpp
-g++ testBaseDerived.cpp 
-./a.out
-emacs derivedClass.h
-g++ testBaseDerived.cpp 
-emacs derivedClass.h
-w
-cp template.cpp pointerExample.cpp
-cp ../template.cpp pointerExample.cpp
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-./a.out
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-./a.out
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-./a.out
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-./a.out
-emacs pointerExample.cpp 
-g++  pointerExample.cpp 
-./a.out
-emacs pointerExample.cpp 
-w
-exit
-sudo -i
-exit
-w
-cd testOneReview/
-ll
-emacs baseClass.h
-emacs derivedClass.h
-emacs baseClass.cpp
-emacs derivedClass.cpp
-emacs testBaseDerived.cpp
-g++ -Wall testBaseDerived.cpp
-./a.out
-emacs derivedClass.cpp
-emacs testBaseDerived.cpp
-./a.out
-emacs baseClass.cpp
-emacs baseClass.h
-g++ -Wall testBaseDerived.cpp
-./a.out
-emacs derivedClass.h
-ll
-emacs pointerExample.cpp
-emacs ttt.cpp
-emacs pointerExample.cpp
-exit
-emacs Matrix.cpp 
-emacs Matrix.h
-cp Matrix.cpp Matrix.h
-emacs Matrix.h
-cp Matrix.h Matrix.cpp
-emacs Matrix.cpp
-cp template.cpp testMatrix.cpp
-emacs testMatrix.cpp 
-g++ testMatrix.cpp
-emacs Matrix.h
-g++ testMatrix.cpp
-emacs Matrix.h
-g++ testMatrix.cpp
-emacs Matrix.h
-g++ testMatrix.cpp
-emacs Matrix.h
-emacs Matrix.cpp
-g++ testMatrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-./a.out
-exit
-q
-w
-cp classTemplate.cpp Matrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-./a.out
-emacs Matrix.
-pwd
-ll
-ll Matrix*
-emacs Matrix.h
-emacs Matrix.cpp
-emacs testMatrix.cpp
-g++ -Wall testMatrix.cpp
-emacs Matrix.cpp
-g++ -Wall testMatrix.cpp
-emacs Matrix.cpp
-g++ -Wall testMatrix.cpp
-clear
-g++ -Wall testMatrix.cpp
-emacs Matrix.h
-emacs Matrix.cpp
-g++ -Wall testMatrix.cpp
-emacs Matrix.cpp
-g++ -Wall testMatrix.cpp
-./a.out
-exit
-cd testOneReview/
-ll
-emacs baseClass.h
-emacs derivedClass.h
-emacs baseClass.cpp
-emacs derivedClass.cpp
-ll
-emacs ttt.cpp
-emacs pointerExample.cpp
-emacs baseClass.h
-emacs baseClass.cpp
-emacs testBaseDerived.cpp
-emacs derivedClass.cpp
-g++ testBaseDerived.cpp
-./a.out
-emacs testBaseDerived.cpp
-./a.out
-emacs baseClass.h
-g++ testBaseDerived.cpp
-./a.out
-w
-exit
-w
-emacs Matrix.h
-emacs Matrix.cpp
-ll
-emacs testMatrix.cpp
-g++ testMatrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-emacs Matrix.h
-emacs Matrix.cpp
-g++ testMatrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-w
-emacs Matrix.cpp
-g++ testMatrix.cpp
-./a.out
-emacs testTest.cpp
-w
-kill -9 -1
-ll
-mkdir Ch3P12
-cd Ch3P12/
-emacs matrixType.h
-emacs matrixType.cpp
-emacs testMatrixType.cpp
-ll
-g++ testMatrixType.cpp 
-emacs testMatrixType.cpp
-ll
-emacs matrixType.h
-emacs testMatrixType.cpp
-g++ testMatrixType.cpp 
-./a.out
-emacs matrixType.h
-w
-exit
-w
-cp template.cpp t.cpp
-emacs t.cpp
-g++ t.cpp
-emacs t.cpp
-g++ t.cpp
-emacs t.cpp
-g++ t.cpp
-emacs t.cpp
-g++ t.cpp
-./a.out
-emacs t.cpp
-g++ t.cpp
-./a.out
-emacs t.cpp
-ll
-emacs Matrix.h
-emacs Matrix.cpp
-g++ testMatrix.cpp
-./a.out
-emacs Matrix.cpp
-emacs Matrix.h
-g++ testMatrix.cpp
-emacs Matrix.cpp
-g++ testMatrix.cpp
-./a.out
-emacs testMatrix.cpp
-g++ testMatrix.cpp
-./a.out
-emacs testMatrix.cpp
-g++ testMatrix.cpp
-./a.out
-g++ testMatrix.cpp
-emacs testMatrix.cpp
-g++ testMatrix.cpp
-./a.out
-w
-kill -9 -1
-emacs Matrix.h
-emacs Matrix.cpp
-emacs testMatrix.cpp
-g++ testMatrix.cpp
-./a.out
-emacs Matrix.h
-emacs Matrix.cpp
-exit
-mkdir Lab2
-cd Lab2
-cp ../classTemplate.cpp Vehicle.h
-cp ../classTemplate.cpp Car.h
-cp ../classTemplate.cpp Bike.h
-emacs Vehicle.h 
-cp Vehicle.h Vehicle.cpp
-emacs Vehicle.cpp
-cp Vehicle.h Car.h
-emacs Car.h
-cp Car.h Car.cpp
-emacs Car.cpp
-cp ../templace.cpp testVehicle.cpp
-cp ../template.cpp testVehicle.cpp
-emacs testVehicle.cpp 
-cd ..
-ll
-cd Lab2
-emacs testVehicle.cpp 
-g++ testVehicle.cpp 
-emacs Vehicle.h 
-emacs Vehicle.cpp
-g++ testVehicle.cpp 
-emacs Vehicle.h 
-emacs Vehicle.cpp
-g++ testVehicle.cpp 
-emacs Vehicle.cpp
-emacs Vehicle.h
-emacs Vehicle.cpp
-emacs Car.h
-emacs Car.cpp
-g++ testVehicle.cpp 
-emacs Car.h
-emacs Vehicle.h
-emacs Car.h
-sudo -i
-emacs Vehicle.h
-cd ..
-emacs derivedClass.h
-emacs derivedClass.cpp
-emacs derivedClass.h
-cd ..
-emacs baseClass.h
-pwd
-cd ~
-emacs baseClass.h
-emacs derivedClass.h
-cd Lab2
-ll
-g++ testVehicle.cpp
-emacs Car.cpp
-g++ testVehicle.cpp
-exit
-cp baseClass* Lab2
-cp derivedClass* Lab2
-cd Lab2
-ll
-emacs baseClass.cpp
-emacs baseClass.h
-cp baseClass.h Vehicle.h
-emacs Vehicle.h
-cp baseClass.cpp Vehicle.cpp
-emacs Vehicle.cpp
-ll
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-emacs Vehicle.h
-g++ testVehicle.cpp
-emacs Vehicle.cpp
-g++ testVehicle.cpp
-./a.out
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-./a.out
-cp derivedClass.h Car.h
-emacs Car.h
-cp derivedClass.cpp Car.cpp
-emacs Car.cpp
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-emacs Car.cpp
-emacs testVehicle.cpp
-cd ..
-ll test*
-emacs testBaseDerived.cpp
-cd Labs
-cd Lab2
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-emacs Car.h
-g++ testVehicle.cpp
-./a.out
-emacs testVehicle.cpp
-exit
-emacs Matrix.h
-emacs Matrix.cpp
-emacs testMatrix.cpp
-g++ testMatrix.cpp
-./a.out
-emacs baseClass.h
-emacs baseClass.cpp
-emacs derivedClass.cpp
-emacs derivedClass.h
-emacs baseClass.cpp
-emacs derivedClass.cpp
-emacs testBaseDerived.cpp
-cd Lab2
-emacs Vehicle.h
-emacs Vehicle.cpp
-emacs Car.h
-emacs Car.cpp
-exit
-more Vehicle.h
-ll
-pwd
-cd Lab2/
-ll
-emacs Vehicle.h
-emacs Vehicle.cpp
-emacs Car.h
-emacs Car.cpp
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-emacs testVehicle.cpp
-emacs Car.cpp
-g++ testVehicle.cpp
-emacs Vehicle.cpp
-emacs Vehicle.h
-g++ testVehicle.cpp
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-emacs Car.cpp
-g++ testVehicle.cpp
-emacs Vehicle.h
-g++ testVehicle.cpp
-emacs Vehicle.h
-g++ testVehicle.cpp
-./a.out
-cp Car.h Bike.h
-cp Car.cpp Bike.cpp
-emacs Bike.h
-emacs Bike.cpp
-emacs Bike.h
-emacs testVehicle.cpp
-emacs Bike.cpp
-g++ testVehicle.cpp
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-emacs Vehicle.h
-g++ testVehicle.cpp
-clear
-g++ testVehicle.cpp
-emacs Bike.cpp
-g++ testVehicle.cpp
-./a.out
-emacs testVehicle.cpp
-emacs Car.cpp
-emacs testVehicle.cpp
-g++ testVehicle.cpp
-./a.out
-emacs Car.cpp
-emacs Bike.cpp
-g++ testVehicle.cpp
-./a.out
-emacs Shape.cpp
-g++ Shape.cpp 
-./a.out
-emacs Shape.cpp
-g++ Shape.cpp 
-./a.out
-emacs Shape.cpp
-g++ Shape.cpp 
-./a.out
-w
-exit
-cd Lab2
-emacs Vehicle.h
-exit
-sudo -i
-cd Lab2
-emacs Vehicle.h
-emacs Vehicle.cpp
-emacs Car.h
-emacs Car.cpp
-sudo -i
-emacs Vehicle.cpp
-emacs Vehicle.h
-emacs Vehicle.cpp
-emacs Car.h
-emacs Bike.h
-emacs Car.cpp
-emacs Bike.cpp
-emacs testVehicle.cpp
-./a.out
-g++ testVehicle.cpp
-./a.out
-cd ..
-emacs Shape.cpp
-ll
-cd Lab2/
-ll
-emacs Shape.cpp
-g++ Shape.cpp
-./a.out
-emacs Shape.cpp
-g++ Shape.cpp
-./a.out
-g++ Shape.cpp
-emacs Shape.cpp
-sudo -i
-exit
-cp Lab2/
-cd Lab2
-ll
-cp Vehicle.h
-cp Vehicle.h VehicleNew.h
-emacs VehicleNew.h 
-emacs Vehicle.h
-emacs Vehicle.cpp
-emacs Car.h
-emacs Car.cpp
-emacs Bike.h
-emacs Bike.cpp
-emacs Car.cpp
-emacs testVehicle.cpp
-emacs Shape.cpp
-g++ Shape.cpp
-./a.out
-emacs Shape.cpp
-exit
-w
-mkdir DSExam1
-cd DSExam1/
-emacs Polygon.cpp
-g++ Polygon.cpp
-emacs Polygon.cpp
-g++ Polygon.cpp
-emacs Polygon.cpp
-g++ Polygon.cpp
-emacs Polygon.cpp
-g++ Polygon.cpp
-./a.out
-emacs Polygon.cpp
-g++ Polygon.cpp
-emacs Polygon.cpp
-g++ Polygon.cpp
-./a.out
-emacs Polygon.cpp
-g++ Polygon.cpp
-./a.out
-emacs Polygon.cpp
-g++ Polygon.cpp
-./a.out
-emacs Polygon.cpp
-w
-kill -9 -1
-ll
-cp template.cpp pointerTest.cpp
-emacs pointerTest.cpp 
-g++ pointerTest.cpp 
-./a.out
-emacs pointerTest.cpp 
-g++ pointerTest.cpp 
 ./a.out
 emacs pointerTest.cpp 
 g++ pointerTest.cpp 
@@ -1996,5 +1198,803 @@ ll
 cp primes.cpp infinitePrimes.cpp
 emacs infinitePrimes.cpp 
 g++ -Wall infinitePrimes.cpp
+./a.out
+exit
+w
+kill -9 -1
+ll
+git add text.txt
+git add ['text.txt']
+git add utilities.h
+git commit -m "uploading utilites file"
+git remote add origin https://github.com/def3qu/C-Files-to-Share.git
+emacs readme.txt
+git add readme.txt
+git commit -m "uploading readme""
+git commit -m "uploading readme"
+git remote add origin https://github.com/def3qu/C-Files-to-Share.git
+exit
+emacs gitHubInstructions.txt
+git push origin master
+git remote add origin https://github.com/def3qu/C-Files-to-Share.git
+git remote add origin2 https://github.com/def3qu/C-Files-to-Share.git
+git push origin2 master
+ll
+git remote add filesToShare https://github.com/def3qu/Files-to-Share.git
+mkdir filesToShare
+cd filesToShare
+git init
+git remote add filesToShare https://github.com/def3qu/Files-to-Share.git
+cd ..
+ll
+cp utilities.h filesToShare/
+cd filesToShare/
+add .
+git add .
+git -commit 
+git commit 
+git push filesToShare  master
+exit
+sudo -i
+exit
+sudo -i
+exit
+w
+sudo -i
+exit
+sudo -i
+exit
+ll
+cd bookSolutions/
+ll
+cd Stacks/
+ll
+more myStack.h
+more stackADT.h
+ll
+more myStack.h
+ll
+cd bookSolutions/
+ll
+cd Stacks
+ll
+cd ..
+ll
+cd ,,
+cd ..
+ll
+cd bookSolutions/
+mkdir Queues
+emacs queueADT.h
+cp queueADT.h Queues/
+ll
+rm queueADT.h 
+cd Stacks
+more myStack.h
+cd ../Queues/
+cp queueADT.h arrayQueue.h
+emacs arrayQueue.h 
+emacs queueADT.h 
+emacs arrayQueue.h 
+mv arrayQueue.h queueType.h
+emacs queueType.h 
+w
+cd ../Stacks/
+more myStack.h
+cd ../Queues/
+emacs queueType.h 
+cd ../Stacks/
+more myStack.h
+cd ../Queues/
+emacs queueType.h 
+g++ queueType.h
+clear 
+g++ queueType.h
+emacs queueType.h 
+clear 
+g++ queueType.h
+emacs queueType.h 
+g++ queueType.h
+exit
+w
+ll
+ll c*
+more c7p5.cpp
+ll
+g++ c7p5.cpp
+cd bookSolutions/Stacks/
+ll
+cd ..
+cd Queues/
+ll
+cp queueADT.h linkedQueueType.h
+emacs linkedQueueType.h 
+cp arrayQueue.h linkedQueueType.h
+cp queueType.h linkedQueueType.h
+emacs linkedQueueType.h 
+emacs TestLinkedQueue.cpp
+g++ TestLinkedQueue.cpp 
+emacs TestLinkedQueue.cpp
+g++ TestLinkedQueue.cpp 
+ll
+emacs TestLinkedQueue.cpp
+ll
+g++ TestLinkedQueue.cpp 
+emacs linkedQueueType.h 
+g++ TestLinkedQueue.cpp &> error.txt
+more error.txt
+exit
+cd bookSolutions/Queues/
+ll
+emacs queueADT.h
+emacs queueType.h
+exit
+cd bookSolutions/
+cd Queues/
+ll
+emac queueADT.h
+emacs queueADT.h
+emac queueType.h
+emacs queueType.h
+g++ TestLinkedQueue.cpp
+ll
+emacs linkedQueueType.h
+g++ TestLinkedQueue.cpp
+emacs linkedQueueType.h
+g++ TestLinkedQueue.cpp
+emacs linkedQueueType.h
+g++ TestLinkedQueue.cpp
+clear
+g++ TestLinkedQueue.cpp
+emacs TestLinkedQueue.cpp
+clear
+g++ TestLinkedQueue.cpp
+emacs TestLinkedQueue.cpp
+emacs linkedQueueType.h
+clear
+g++ TestLinkedQueue.cpp
+./a.out
+more TestLinkedQueue.cpp
+w
+exit
+cd bookSolutions/Queues/
+emacs example8-2.cpp
+g++ example8-2.cpp 
+emacs example8-2.cpp
+g++ example8-2.cpp 
+./a.out
+w
+exit
+cd bookSolutions/Stacks/
+ll
+emacs c7p5.cpp
+sudo -i
+exit
+sudo -i
+exit
+w
+cd bookSolutions/Queues/
+ll
+email TestLinkedQueue.cpp
+emacs TestLinkedQueue.cpp
+cd ..
+mkdir Homework
+cd Stacks/
+ll
+cp *h ../Homework/.
+cd ../Queues/
+cp *h ../Homework/.
+cd ../Homework/
+ll
+rm *gch
+ll
+more stackADT.h 
+ll
+more queueADT.h 
+w
+cd ../Queues/
+ll
+cp TestLinkedQueue.cpp ../Homework/.
+cd ../Stacks/
+ll
+cp c7p5.cpp ../Homework/.
+cd ../Homework/
+ll
+mv c7p5.cpp stackAndQueue.cpp
+emacs stackAndQueue.cpp 
+cd ../Stacks/
+ll
+cd ../Homework/
+emacs stackAndQueue.cpp 
+g++ -Wall  stackAndQueue.cpp 
+cd ../Queues/
+ll
+more TestLinkedQueue.cpp
+cd ../Homework/
+emacs stackAndQueue.cpp 
+emacs linkedQueueType.h 
+g++ -Wall  stackAndQueue.cpp 
+emacs linkedQueueType.h 
+emacs stackAndQueue.cpp 
+g++ -Wall  stackAndQueue.cpp 
+cd ../Queues/
+ll
+emacs TestLinkedQueue.cpp
+exit
+cd bookSolutions/Homework/
+ll
+emacs stackAndQueue.cpp
+g++ -Wall stackAndQueue.cpp
+cd ../Stacks/
+sudo -i
+emacs c7p5.cpp
+more myStack.h
+cd ../Homework/
+ll
+emacs stackAndQueue.cpp
+cd ../Queues/
+ll
+more TestLinkedQueue.cpp
+cd ../Homework/
+ll
+more TestLinkedQueue.cpp 
+cd ../Homework/
+emacs stacksAndQueues.cpp
+ll
+emacs stackAndQueue.cpp
+g++ -Wall stackAndQueue.cpp
+emacs linkedQueueType.h
+g++ -Wall stackAndQueue.cpp
+cd ../Stacks/
+more c7p5.cpp
+cd ../Queues/
+ll
+g++ TestLinkedQueue.cpp
+emacs TestLinkedQueue.cpp
+more linkedQueueType.h
+cd ../Homework/
+ll
+g++ TestLinkedQueue.cpp 
+ll
+cp ../Stacks/* .
+cp ../Queues/* .
+emacs linkedQueueType.h
+g++ TestLinkedQueue.cpp 
+cp stackAndQueue.cpp ../Queues/.
+cd ../Queues/
+ll
+emacs stackAndQueue.cpp 
+sudo -i
+ll
+g++ TestLinkedQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+more TestLinkedQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+./a.out
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+./a.out
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+./a.out
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+./a.out
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+./a.out
+w
+exit
+cd Chapter9
+ll
+mv arrayListType.h arrayListType.cpp
+emacs arrayListType.cpp 
+g++ arrayListType.cpp
+emacs arrayListType.cpp 
+w
+exit
+clear
+cd bookSolutions/Homework/
+ll
+emacs stackAndQueue.cpp
+cd ../Queues/
+ll
+emacs stackAndQueue.cpp
+g++ stackAndQueue.cpp
+./a.out
+emacs queueADT.h
+emacs linkedQueueType.h
+emacs TestLinkedQueue.cpp
+cp queueADT.h /tmp
+cp linkedQueueType.h /tmp
+cp queueType.h /tmp
+cd /tmp
+chmod 777 *
+ll
+cd ~
+w
+ll
+pwd
+cd bookSolutions/Queues/
+ll
+emacs example8-2.cpp
+g++ -Wall example8-2.cpp
+./a,out
+./a.out
+w
+sudo -i
+cd bookSolutions/Queues/
+emacs queueADT.h
+emacs linkedQueueType.h
+g++ linkedQueueType.h
+ll
+emacs stackAndQueue.cpp
+g++ -Wall stackAndQueue.cpp
+./a.out
+emacs stackAndQueue.cpp
+cd ~
+ll
+cd Chapter9
+ll
+g++ arrayListType.cpp
+g++ arrayListType.cpp >& error.txt
+more error.txt 
+emacs arrayListType.cpp
+g++ arrayListType.cpp >& error.txt
+more error.txt 
+emacs arrayListType.cpp
+g++ arrayListType.cpp >& error.txt
+more error.txt 
+clear
+more error.txt 
+emacs arrayListType.cpp
+g++ arrayListType.cpp
+emacs arrayListType.cpp
+g++ arrayListType.cpp
+emacs arrayListType.cpp
+g++ arrayListType.cpp
+w
+exit
+sudo -i
+exit
+w
+cd bookSolutions
+ll
+cd ..
+ll C*
+ll
+cd Chapter9/
+ll
+emacs hashT.h
+g++ -Wall hashT.h
+emacs hashT.h
+g++ -Wall hashT.h
+emacs hashT.h
+g++ -Wall hashT.h
+w
+exit
+cd Chapter9/
+ll
+emacs TestHash.cpp
+emacs hashT.h
+emacs TestHash.cpp 
+w
+exxit
+exit
+cd bookSolutions/Queues/
+ll
+emacs linkedQueueType.h
+exit
+cd bookSolutions/Queues/
+ll
+emacs linkedQueueType.h
+cd ../Stacks/
+emacs linkedStack.h
+w
+exit
+sudo -i
+clear
+sudo -i
+clear
+w
+sudo -i
+exit
+cd Chapter9/
+ll
+more hashT.h
+cp ../template.cpp  simpleSeqSearch.cpp
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+./a.out
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+./a.out
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+./a.out
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+./a.out
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+./a.out
+emacs simpleSeqSearch.cpp 
+g++ -Wall simpleSeqSearch.cpp 
+./a.out
+cp simpleSeqSearch.cpp simpleBinarySearch.cpp
+emacs simpleBinarySearch.cpp 
+g++ -Wall simpleBinarySearch.cpp 
+emacs simpleBinarySearch.cpp 
+g++ -Wall simpleBinarySearch.cpp 
+emacs simpleBinarySearch.cpp 
+g++ -Wall simpleBinarySearch.cpp 
+emacs simpleBinarySearch.cpp 
+g++ -Wall simpleBinarySearch.cpp 
+./a.out
+emacs simpleBinarySearch.cpp 
+g++ -Wall simpleBinarySearch.cpp 
+./a.out
+exit
+cd Chapter9/
+ll
+cp simpleBinarySearch.cpp binarySearch.cpp
+emacs simpleBinarySearch.cpp
+cp simpleBinarySearch.cpp simpleSearch.cpp
+emacs simpleSearch.cpp 
+emacs simpleSeqSearch.cpp
+emacs binarySearch.cpp 
+cp binarySearch.cpp simpleSearch.cpp
+emacs simpleSearch.cpp 
+w
+exit
+clear
+cd Chapter9/
+ll
+exit
+cd Chapter9/
+w
+ll
+emacs simpleSeqSearch.cpp
+g++ simpleSeqSearch.cpp
+./a.out
+emacs simpleSeqSearch.cpp
+g++ simpleSeqSearch.cpp
+./a.out
+emacs simpleSeqSearch.cpp
+emacs simpleBinarySearch.cpp
+g++ simpleSearch.cpp
+./a.out
+emacs simpleBinarySearch.cpp
+emacs simpleSearch.cpp
+emacs binarySearch.cpp 
+g++ binarySearch.cpp
+./a.out
+emacs binarySearch.cpp 
+exit
+cd Chapter9
+emacs simpleSeqSearch.cpp
+emacs simpleBinarySearch.cpp
+emacs binarySearch.cpp 
+w
+exit
+cd Chapter9
+emacs simpleSeqSearch.cpp
+g++ -Wall simpleSeqSearch.cpp
+./a.out
+emacs simpleSeqSearch.cpp
+g++ -Wall simpleSeqSearch.cpp
+./a.out
+emacs simpleSeqSearch.cpp
+g++ -Wall simpleSeqSearch.cpp
+emacs simpleSeqSearch.cpp
+g++ -Wall simpleSeqSearch.cpp
+./a.out
+emacs binarySearch.cpp
+g++ -Wall binarySearch.cpp
+./.a.out
+./a.out
+emacs binarySearch.cpp
+exit
+cd bookSolutions/Qu
+cd bookSolutions/Queues/
+emacs customerType.cpp
+cp ../../template.cpp TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ TestCustomer.cpp
+clear
+g++ TestCustomer.cpp
+g++ TestCustomer.cpp >& error.txt
+more error.txt 
+emacs customerType.cpp
+g++ TestCustomer.cpp >& error.txt
+more error.txt 
+emacs customerType.cpp
+g++ TestCustomer.cpp >& error.txt
+more error.txt 
+emacs customerType.cpp
+g++ TestCustomer.cpp >& error.txt
+more error.txt 
+./a.out
+emacs TestCustomer.cpp 
+g++ TestCustomer.cpp >& error.txt
+./a.out
+emacs TestCustomer.cpp 
+g++ TestCustomer.cpp >& error.txt
+emacs TestCustomer.cpp 
+g++ -Wall TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ -Wall TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ -Wall TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ -Wall TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ -Wall TestCustomer.cpp
+emacs TestCustomer.cpp 
+g++ -Wall TestCustomer.cpp
+./a.out
+emacs serverType.cpp
+cp TestCustomer.cpp TestServer.cpp
+emacs TestServer.cpp 
+g++ TestServer.cpp
+g++ TestServer.cpp >& error.txt
+more error.txt
+emacs serverType.cpp
+g++ TestServer.cpp >& error.txt
+more error.txt
+emacs serverType.cpp
+g++ TestServer.cpp >& error.txt
+more error.txt
+emacs serverType.cpp
+g++ serverType.cpp >& error.txt
+more error.txt
+emacs serverType.cpp
+g++ serverType.cpp >& error.txt
+more error.txt
+emacs serverType.cpp
+g++ serverType.cpp >& error.txt
+more error.txt
+emacs serverType.cpp
+g++ serverType.cpp >& error.txt
+more error.txt
+emacs serverType.cpp
+g++ serverType.cpp >& error.txt
+g++ -Wall TestServer.cpp 
+g++ TestServer.cpp >& error.txt
+more error.txt 
+emacs customerType.cpp
+emacs serverType.cpp
+g++ TestServer.cpp >& error.txt
+more error.txt 
+emacs serverType.cpp
+g++ TestServer.cpp >& error.txt
+more error.txt 
+emacs TestServer.cpp
+g++ TestServer.cpp
+emacs TestServer.cpp
+g++ TestServer.cpp
+./a.out
+emacs TestServer.cpp
+g++ TestServer.cpp
+./a.out
+emacs TestServer.cpp
+cd bookSolutions/Queues/
+ll
+cp customerType.cpp waitingCustomerQueueType.cpp
+emacs waitingCustomerQueueType.cpp 
+more linkedQueueType.h
+emacs waitingCustomerQueueType.cpp 
+ll
+emacs waitingCustomerQueueType.cpp 
+g++ waitingCustomerQueueType.cpp
+emacs waitingCustomerQueueType.cpp 
+g++ waitingCustomerQueueType.cpp
+emacs queueType.h
+g++ waitingCustomerQueueType.cpp >& error.txt
+more error.txt 
+emacs waitingCustomerQueueType.cpp 
+g++ waitingCustomerQueueType.cpp >& error.txt
+more error.txt 
+emacs waitingCustomerQueueType.cpp 
+emacs queueType.h
+g++ waitingCustomerQueueType.cpp >& error.txt
+more error.txt 
+clear
+emacs customerType.cpp
+emacs serverType.cpp
+emacs waitingCustomerQueueType.cpp
+emacs TestCustomer.cpp
+g++ -Wall TestCustomer.cpp
+./a.out
+emacs TestCustomer.cpp
+emacs TestServer.cpp
+g++ -Wall TestServer.cpp
+./a.out
+exit
+sudo -i
+cd bookSolutions/Queues/
+ll
+emacs waitingCustomerQueueType.cpp
+cp ../../template.cpp TestWaiting.cpp
+emacs TestWaiting.cpp 
+g++ -Wall TestWaiting.cpp 
+emacs TestWaiting.cpp 
+g++ -Wall TestWaiting.cpp 
+emacs TestWaiting.cpp 
+g++ -Wall TestWaiting.cpp 
+emacs TestWaiting.cpp 
+g++ -Wall TestWaiting.cpp 
+emacs TestWaiting.cpp 
+g++ -Wall TestWaiting.cpp 
+emacs TestWaiting.cpp 
+g++ -Wall TestWaiting.cpp 
+./a.out
+cp ../../template.cpp simulationMain.cpp
+emacs simulationMain.cpp
+ll
+emacs serverListType.cpp
+cp ../../template.cpp TestServerList.cpp
+emacs TestServerList.cpp 
+g++ -Wall  TestServerList.cpp 
+emacs TestServerList.cpp 
+g++ -Wall  TestServerList.cpp 
+emacs TestServerList.cpp 
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp >& error.txt
+more error.txt 
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp
+clear
+g++ -Wall  TestServerList.cpp
+emacs serverListType.cpp
+g++ -Wall  TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+emacs serverListType.cpp
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+./a.out
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+./a.out
+emacs TestServerList.cpp
+g++ -Wall  TestServerList.cpp
+./a.out
+clear
+emacs customerType.cpp
+emacs TestCustomer.cpp
+g++ TestCustomer.cpp
+./a.out
+emacs serverType.cpp
+emacs TestServer.cpp
+g++ TestServer.cpp
+./a.out
+w
+emacs serverListType.cpp
+emacs customerType.cpp
+emacs serverListType.cpp
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+./a.out
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+emacs TestServerList.cpp
+emacs TestServer.cpp
+emacs TestServerList.cpp
+emacs serverListType.cpp
+g++ -Wall TestServerList.cpp
+emacs serverListType.cpp
+g++ -Wall TestServerList.cpp
+emacs serverListType.cpp
+g++ -Wall TestServerList.cpp
+emacs serverListType.cpp
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+./a.out
+emacs waitingCustomerQueueType.cpp
+emacs TestWaiting.cpp
+g++ -Wall TestWaiting.cpp
+./a.out
+emacs TestWaiting.cpp
+cd bookSolutions/Queues/
+emacs TestServerList.cpp
+emacs serverListType.cpp
+emacs TestServerList.cpp
+g++ -Wall TestWaiting.cpp
+./a.out
+g++ -Wall TestServerList.cpp
+./a.out
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+./a.out
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+./a.out
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
+./a.out
+emacs TestServerList.cpp
+g++ -Wall TestServerList.cpp
 ./a.out
 exit

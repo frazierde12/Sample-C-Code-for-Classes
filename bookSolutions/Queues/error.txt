@@ -1,0 +1,16 @@
+In file included from TestServerList.cpp:2:0:
+serverListType.cpp: In constructor ‘serverListType::serverListType(int)’:
+serverListType.cpp:30:35: error: cannot convert ‘serverListType*’ to ‘serverType*’ in assignment
+   servers = new serverListType[num];
+                                   ^
+serverListType.cpp: In member function ‘int serverListType::getFreeServerID() const’:
+serverListType.cpp:50:3: error: ‘returnserverID’ was not declared in this scope
+   returnserverID;
+   ^~~~~~~~~~~~~~
+serverListType.cpp:50:3: note: suggested alternative: ‘getFreeServerID’
+   returnserverID;
+   ^~~~~~~~~~~~~~
+   getFreeServerID
+serverListType.cpp:51:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^

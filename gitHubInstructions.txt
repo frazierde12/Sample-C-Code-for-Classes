@@ -1,0 +1,3 @@
+How to get files from this server to GitHub
+git add .   // to add all files and directories
+git commit -m "some useful message"

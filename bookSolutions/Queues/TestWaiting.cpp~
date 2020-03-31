@@ -1,0 +1,16 @@
+#include <iostream>
+#include "waitingCustomerQueueType.cpp"
+#include "customerType.cpp"
+
+using namespace std;
+
+int main()
+{
+  customerType c(123);
+  waitingCustomerQueueType w(100);
+  w.addQueue(c);
+
+  cout << w.front().getCustomerNumber() << endl;
+  return 0;
+}
+

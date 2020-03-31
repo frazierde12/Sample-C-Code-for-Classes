@@ -1,0 +1,4 @@
+arrayListType.cpp: In copy constructor ‘arrayListType<elemType>::arrayListType(const arrayListType<elemType>&)’:
+arrayListType.cpp:199:14: error: expected ‘;’ before ‘j’
+       list[j]j = otherList.list[j];
+              ^

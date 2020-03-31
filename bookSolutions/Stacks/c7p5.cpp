@@ -7,12 +7,12 @@ int main()
 {
   stackType<char> p(100);
   string e;
-  int err;
+  int err = 0;
 
   cout << "\n\t\tEnter an expression: ";
   cin >> e;
 
-  for (size_t i(0); i < e.length(); i++)
+  for (size_t i=0; i < e.length(); i++)
     {
       if (e.at(i) == '(')
 	{

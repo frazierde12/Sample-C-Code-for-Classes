@@ -1,0 +1,70 @@
+In file included from TestLinkedQueue.cpp:2:0:
+linkedQueueType.h:20:9: error: ‘linkedQueueType’ does not name a type; did you mean ‘H_QueueType’?
+   const linkedQueueType<Type>& operator=(const linkedQueueType<Type>&);
+         ^~~~~~~~~~~~~~~
+         H_QueueType
+linkedQueueType.h:36:19: error: ISO C++ forbids declaration of ‘linkedQueueType’ with no type [-fpermissive]
+   linkedQueueType();
+                   ^
+linkedQueueType.h:39:52: error: ISO C++ forbids declaration of ‘linkedQueueType’ with no type [-fpermissive]
+   linkedQueueType(const queueType<Type>& otherQueue);
+                                                    ^
+linkedQueueType.h:42:20: error: declaration of ‘~linkedQueueType’ as member of ‘queueType<Type>’
+   ~linkedQueueType();
+                    ^
+linkedQueueType.h:51:21: error: expected initializer before ‘<’ token
+ bool linkedQueueType<Type>::isEmptyQueue()const
+                     ^
+linkedQueueType.h:57:21: error: expected initializer before ‘<’ token
+ bool linkedQueueType<Type>::isFullQueue()const
+                     ^
+linkedQueueType.h:63:21: error: expected initializer before ‘<’ token
+ void linkedQueueType<Type>::initializeQueue()
+                     ^
+linkedQueueType.h:76:21: error: expected initializer before ‘<’ token
+ void linkedQueueType<Type>::addQueue(const Type &newElement)
+                     ^
+linkedQueueType.h:95:21: error: expected initializer before ‘<’ token
+ Type linkedQueueType<Type>::front()const
+                     ^
+linkedQueueType.h:102:21: error: expected initializer before ‘<’ token
+ Type linkedQueueType<Type>::back()const
+                     ^
+linkedQueueType.h:109:21: error: expected initializer before ‘<’ token
+ void linkedQueueType<Type>::deleteQueue()
+                     ^
+linkedQueueType.h:129:1: error: ‘linkedQueueType’ does not name a type; did you mean ‘H_QueueType’?
+ linkedQueueType<Type>::linkedQueueType()
+ ^~~~~~~~~~~~~~~
+ H_QueueType
+TestLinkedQueue.cpp: In function ‘int main()’:
+TestLinkedQueue.cpp:6:3: error: ‘linkedQueueType’ was not declared in this scope
+   linkedQueueType<int>queue;
+   ^~~~~~~~~~~~~~~
+TestLinkedQueue.cpp:6:3: note: suggested alternative: ‘H_QueueType’
+   linkedQueueType<int>queue;
+   ^~~~~~~~~~~~~~~
+   H_QueueType
+TestLinkedQueue.cpp:6:19: error: expected primary-expression before ‘int’
+   linkedQueueType<int>queue;
+                   ^~~
+TestLinkedQueue.cpp:7:3: error: ‘intx’ was not declared in this scope
+   intx,y;
+   ^~~~
+TestLinkedQueue.cpp:7:3: note: suggested alternative: ‘int’
+   intx,y;
+   ^~~~
+   int
+TestLinkedQueue.cpp:7:8: error: ‘y’ was not declared in this scope
+   intx,y;
+        ^
+TestLinkedQueue.cpp:8:3: error: ‘queue’ was not declared in this scope
+   queue.initializeQueue();
+   ^~~~~
+TestLinkedQueue.cpp:8:3: note: suggested alternative: ‘queueADT’
+   queue.initializeQueue();
+   ^~~~~
+   queueADT
+TestLinkedQueue.cpp:9:3: error: ‘x’ was not declared in this scope
+   x=4;y=5;
+   ^
